@@ -9,7 +9,7 @@ wsl --export Ubuntu D:\backup\ubuntu.tar.
 Удалите файлы среды WSL на исходном диске. 
 Создайте каталог для образа Linux на новом диске и импортируйте tar-архив в WSL командой:
 mkdir D:\WSL; 
-wsl --import Ubuntu E:\WSL\ D:\backup\ubuntu.tar. 
+wsl --import Ubuntu D:\WSL\ D:\backup\ubuntu.tar. 
 Запустите среду WSL. 
 Также для переноса WSL можно использовать стороннюю утилиту LxRunOffline. Для переноса образа на другой диск используйте команду Lxrunoffline move -n Ubuntu-20.04 -d d:\wsl2\Ubuntu-20.04.
 
