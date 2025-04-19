@@ -1,5 +1,4 @@
 ## Pimp Your Terminal
-show note from youtube video ->
 
 ![term.jpg](term.jpg)
 
