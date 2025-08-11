@@ -11,6 +11,14 @@ DISPLAY=:0.0 zenity --entry --text Привет-как-дела                 
 Старый пароль: Qwerty123
 Новый пароль: mashalox
 
+#!/bin/bash
+ports=$(nmap -p- --min-rate=500 $1 | grep ^[0-9] | cut -d '/' -f 1 | tr '\n' ',' | sed s/,$//)
+nmap -p$ports -A $1
+
+
+gobuster dir -t 128 -u http: -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt --timeout 30s
+curl http:  | jq
+
 
 wget -P /home/student/mos -r --no-parent https://login.mos.ru.yzz.me/ ls -l login.mos.ru.yzz.me   - получить файлы с каталога
 
