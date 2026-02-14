@@ -1,0 +1,21 @@
+Metasploit tip: Use the capture plugin to start multiple 
+authentication-capturing and poisoning services
+[0m[36m[37mIIIIII    [31mdTb.dTb[0m        _.---._
+[37m  II     [31m4'  v  'B[0m   .'"".'/|\`.""'.
+[37m  II     [31m6.     .P[0m  :  .' / | \ `.  :
+[37m  II     [31m'T;. .;P'[0m  '.'  /  |  \  `.'
+[37m  II      [31m'T; ;P'[0m    `. /   |   \ .'
+[37mIIIIII     [31m'YvP'[0m       `-.__|__.-'
+
+I love shells --egypt
+[0m
+
+       =[ [33mmetasploit v6.4.106-dev-[0m                              ]
++ -- --=[ 2,584 exploits - 1,316 auxiliary - 1,676 payloads     ]
++ -- --=[ 433 post - 49 encoders - 14 nops - 9 evasion          ]
+
+Metasploit Documentation: https://docs.metasploit.com/
+The Metasploit Framework is a Rapid7 Open Source Project
+
+[?1034h[4mmsf[0m [0m> exit
+[0m

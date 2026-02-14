@@ -1,0 +1,33 @@
+Metasploit tip: Use help <command> to learn more about any command
+[0m[36m[0m
+[34mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM[0m
+[34mMMMMMMMMMMM                MMMMMMMMMM[0m
+[34mMMMN$                           vMMMM[0m
+[34mMMMNl[0m  [1mMMMMM             MMMMM[0m  [34mJMMMM[0m
+[34mMMMNl[0m  [1mMMMMMMMN       NMMMMMMM[0m  [34mJMMMM[0m
+[34mMMMNl[0m  [1mMMMMMMMMMNmmmNMMMMMMMMM[0m  [34mJMMMM[0m
+[34mMMMNI[0m  [1mMMMMMMMMMMMMMMMMMMMMMMM[0m  [34mjMMMM[0m
+[34mMMMNI[0m  [1mMMMMMMMMMMMMMMMMMMMMMMM[0m  [34mjMMMM[0m
+[34mMMMNI[0m  [1mMMMMM   MMMMMMM   MMMMM[0m  [34mjMMMM[0m
+[34mMMMNI[0m  [1mMMMMM   MMMMMMM   MMMMM[0m  [34mjMMMM[0m
+[34mMMMNI[0m  [1mMMMNM   MMMMMMM   MMMMM[0m  [34mjMMMM[0m
+[34mMMMNI[0m  [1mWMMMM   MMMMMMM   MMMM#[0m  [34mJMMMM[0m
+[34mMMMMR[0m  [1m?MMNM             MMMMM[0m [34m.dMMMM[0m
+[34mMMMMNm[0m [1m`?MMM             MMMM`[0m [34mdMMMMM[0m
+[34mMMMMMMN[0m  [1m?MM             MM?[0m  [34mNMMMMMN[0m
+[34mMMMMMMMMNe[0m                 [34mJMMMMMNMMM[0m
+[34mMMMMMMMMMMNm,[0m            [34meMMMMMNMMNMM[0m
+[34mMMMMNNMNMMMMMNx[0m        [34mMMMMMMNMMNMMNM[0m
+[34mMMMMMMMMNMMNMMMMm+..+MMNMMNMNMMNMMNMM[0m
+[0m[1m        https://metasploit.com
+[0m
+
+       =[ [33mmetasploit v6.4.106-dev-[0m                              ]
++ -- --=[ 2,584 exploits - 1,316 auxiliary - 1,676 payloads     ]
++ -- --=[ 433 post - 49 encoders - 14 nops - 9 evasion          ]
+
+Metasploit Documentation: https://docs.metasploit.com/
+The Metasploit Framework is a Rapid7 Open Source Project
+
+[?1034h[4mmsf[0m [0m> exit
+[0m

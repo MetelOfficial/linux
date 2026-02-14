@@ -1,0 +1,36 @@
+Metasploit tip: View advanced module options with advanced
+[0m[36m[0m[31m               .;lxO0KXXXK0Oxl:.
+           ,o0WMMMMMMMMMMMMMMMMMMKd,
+        'xNMMMMMMMMMMMMMMMMMMMMMMMMMWx,
+      :KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMK:
+    .KMMMMMMMMMMMMMMMWNNNWMMMMMMMMMMMMMMMX,
+   lWMMMMMMMMMMMXd:..     ..;dKMMMMMMMMMMMMo
+  xMMMMMMMMMMWd.               .oNMMMMMMMMMMk
+ oMMMMMMMMMMx.                    dMMMMMMMMMMx
+.WMMMMMMMMM:                       :MMMMMMMMMM,
+xMMMMMMMMMo                         lMMMMMMMMMO
+NMMMMMMMMW                    ,cccccoMMMMMMMMMWlccccc;
+MMMMMMMMMX                     ;KMMMMMMMMMMMMMMMMMMX:
+NMMMMMMMMW.                      ;KMMMMMMMMMMMMMMX:
+xMMMMMMMMMd                        ,0MMMMMMMMMMK;
+.WMMMMMMMMMc                         'OMMMMMM0,
+ lMMMMMMMMMMk.                         .kMMO'
+  dMMMMMMMMMMWd'                         ..
+   cWMMMMMMMMMMMNxc'.[0m[37m                ##########[0m
+[31m    .0MMMMMMMMMMMMMMMMWc[0m[37m            #+#    #+#[0m
+[31m      ;0MMMMMMMMMMMMMMMo.[0m[37m          +:+[0m
+[31m        .dNMMMMMMMMMMMMo[0m          +[37m#+[0m+:++#+
+[31m           'oOWMMMMMMMMo[0m                +:+
+[31m               .,cdkO0K;[0m        :+:    :+:                                
+                                :::::::+:
+                      [37mMetasploit[0m[0m
+
+       =[ [33mmetasploit v6.4.106-dev-[0m                              ]
++ -- --=[ 2,584 exploits - 1,316 auxiliary - 1,676 payloads     ]
++ -- --=[ 433 post - 49 encoders - 14 nops - 9 evasion          ]
+
+Metasploit Documentation: https://docs.metasploit.com/
+The Metasploit Framework is a Rapid7 Open Source Project
+
+[?1034h[4mmsf[0m [0m> exit
+[0m
